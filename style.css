@@ -1032,7 +1032,7 @@ ul.port-nav-list li a.active {
 .project-card {
     padding: 10px;
     margin: 10px;
-    background: #fafaff;
+    background: #efd7e4;
     text-align: center;
     border-radius: 8px;
     font-family: 'Roboto', sans-serif;
@@ -1088,20 +1088,10 @@ ul.port-nav-list li a.active {
     color: #1d72aa;
 }
 
-.html:hover,
-.react-js:hover {
-    background-color: #1d72aa;
-    color: #dcf0ff;
-}
 
 .css {
     background-color: #ffe4ea;
     color: #cc0f35;
-}
-
-.css:hover {
-    background-color: #cc0f35;
-    color: #ffe4ea;
 }
 
 .scss {
@@ -1109,124 +1099,28 @@ ul.port-nav-list li a.active {
     color: #c6538c;
 }
 
-.scss:hover {
-    background-color: #c6538c;
-    color: #fff8dc;
-}
-
 .js {
     background-color: #fff8dc;
     color: #197906;
 }
 
-.js:hover {
-    background-color: #04600d;
-    color: #fff8dc;
-}
-
-.php,
-.react-router {
-    background-color: #dfffea;
-    color: #257942;
-}
-
-.php:hover,
-.react-router:hover {
-    background-color: #257942;
-    color: #dfffea;
-}
-
-.mysql {
-    background-color: #daeafc;
-    color: #254979;
-}
-
-.mysql:hover {
-    background-color: #254979;
-    color: #daeafc;
-}
-
-.jquery,
-.json {
-    background-color: #dbdafc;
-    color: #253279;
-}
-
-.jquery:hover,
-.json:hover {
-    background-color: #253279;
-    color: #dbdafc;
-}
 
 .c {
     background-color: #fcd6fc;
     color: #792562;
 }
 
-.c:hover,
-.api:hover {
-    background-color: #792562;
-    color: #fcd6fc;
-}
+
 
 .python {
     background-color: #dbdafc;
     color: #253279;
 }
 
-.python:hover {
-    background-color: #253279;
-    color: #dbdafc;
-}
-
-.tkinter {
-    background-color: #fcd6fc;
-    color: #792562;
-}
-
-.tkinter:hover {
-    background-color: #792562;
-    color: #fcd6fc;
-}
-
-.sqlite3 {
-    background-color: #ffe4ea;
-    color: #cc0f35;
-}
-
-.sqlite3:hover {
-    background-color: #cc0f35;
-    color: #ffe4ea;
-}
-
-.bootstrap {
-    background-color: #fff8dc;
-    color: #947600;
-}
-
-.bootstrap:hover {
-    background-color: #947600;
-    color: #fff8dc;
-}
-
-.cpp {
-    background-color: #ffe4ea;
-    color: #cc0f35;
-}
-
-.cpp:hover {
-    background-color: #cc0f35;
-    color: #ffe4ea;
-}
 
 .java {
     background-color: #ffe4ea;
     color: #b07219;
-}
-
-.java:hover {
-    background-color: #b07219;
-    color: #ffe4ea;
 }
 
 .proj-pic {
